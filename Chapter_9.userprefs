@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Chapter_10/Assets/TriggerScript.cs">
+    <Files>
+      <File FileName="../Chapter_10/Assets/MovementScript.cs" Line="16" Column="3" />
+      <File FileName="../Chapter_10/Assets/TriggerScript.cs" Line="28" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
